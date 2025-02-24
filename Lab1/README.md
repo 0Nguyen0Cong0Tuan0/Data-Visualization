@@ -1,6 +1,8 @@
 
 <center>
+  
 # Lab 01: Thu thập dữ liệu và trực quan hóa dữ liệu
+  
 </center>
 
 ### 1. Giới thiệu đồ án
